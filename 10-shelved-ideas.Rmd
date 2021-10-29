@@ -1,0 +1,10 @@
+# Shleved ideas
+
+This section includes all of the ideas that I enjoyed thinking about but ultimately were put aside.
+
+## Manufacturing productivity idea
+
+```{r}
+knitr::include_url("https://j-jayes.github.io/PhD-Ideas/", height = 720)
+```
+

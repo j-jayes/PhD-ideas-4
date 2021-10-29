@@ -1,0 +1,1 @@
+knitr::opts_chunk$set(fig.align = "center", fig.width = 8, echo = F, warning = F, message = F)

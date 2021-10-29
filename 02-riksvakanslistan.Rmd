@@ -1,0 +1,10 @@
+# Riksvakanslistan
+
+```{r, echo=F}
+knitr::opts_chunk$set(fig.align = "center", fig.width = 8, echo = F, warning = F, message = F)
+```
+
+```{r}
+knitr::include_url("https://j-jayes.github.io/PhD-Ideas-2/", height = 720)
+```
+
