@@ -3,17 +3,25 @@ title: "Research book"
 author: "Jonathan Jayes"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output: bookdown::bs4_book
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: j-jayes/PhD-ideas-4
+github-repo: "j-jayes/PhD-ideas-4"
 description: "This is a place to keep my research ideas."
+url: "https://j-jayes-research-book.netlify.app/"
+favicon: "resources/favicon.ico"
+cover-image: "resources/index/waves.jpg"
 ---
 
-# Purpose
+# Purpose {.unnumbered}
 
 I have a bunch of ideas all in funny places. It made sense to put them all together in one place.
 
-![](resources/index/waves.jpg)
+<img src="resources/index/waves.jpg" class="cover" height="300"/>
+
+
+
+
+
